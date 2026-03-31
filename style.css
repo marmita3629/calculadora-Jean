@@ -3,12 +3,12 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: #1e1e1e;
+    background: #000000;
     font-family: Arial, sans-serif;
 }
 
 .calculator {
-    background: #2c2c2c;
+    background: #910108;
     padding: 20px;
     border-radius: 10px;
     width: 260px;
@@ -37,7 +37,7 @@ button {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    background: #444;
+    background: #000000;
     color: white;
 }
 
